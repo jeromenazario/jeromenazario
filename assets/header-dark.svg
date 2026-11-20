@@ -1,17 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300">
   <style>
     .sans{font-family:Geist,Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
     .mono{font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
-    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
-    .dot{animation:pulse 2s ease-in-out infinite}
   </style>
-  <rect x="0.5" y="0.5" width="879" height="249" rx="18" fill="#161514" stroke="rgba(244,244,242,0.14)"/>
-  <rect x="40" y="38" width="196" height="30" rx="15" fill="#bbf451"/>
-  <circle class="dot" cx="58" cy="53" r="4.5" fill="#3a6610"/>
-  <text x="72" y="58" class="mono" font-size="12.5" font-weight="500" fill="#262323" letter-spacing="1.2">AVAILABLE FOR WORK</text>
-  <text x="38" y="132" class="sans" font-size="58" font-weight="600" fill="#f4f4f2" letter-spacing="-2">Jerome Nazario</text>
-  <text x="40" y="172" class="sans" font-size="20" fill="rgba(244,244,242,0.62)" letter-spacing="-0.2">Full-stack developer for booking, CRM, automation, AI &amp; machine learning.</text>
-  <line x1="40" y1="198" x2="840" y2="198" stroke="rgba(244,244,242,0.14)"/>
-  <text x="40" y="224" class="mono" font-size="12.5" fill="rgba(244,244,242,0.62)" letter-spacing="0.6">DASMARIÑAS, PH  ·  REMOTE, US HOURS</text>
-  <text x="840" y="224" text-anchor="end" class="mono" font-size="12.5" font-weight="500" fill="#bbf451" letter-spacing="0.6">JEROMENAZARIO.COM ↗</text>
+  <text x="2" y="34" class="mono" font-size="13" fill="rgba(244,244,242,0.6)" letter-spacing="2">FULL-STACK DEVELOPER  /  DASMARIÑAS, PH</text>
+  <text x="0" y="112" class="sans" font-size="68" font-weight="700" fill="#f4f4f2" letter-spacing="-3">Jerome Nazario</text>
+  <text x="2" y="150" class="sans" font-size="20" fill="rgba(244,244,242,0.6)" letter-spacing="-0.2">Booking, CRM, automation, AI &amp; machine learning.</text>
+  <path d="M0 236 C 150 200, 300 200, 440 230 S 730 262, 880 214" fill="none" stroke="#bbf451" stroke-width="2.5"/>
+  <path d="M0 252 C 150 216, 300 216, 440 246 S 730 278, 880 230 L 880 300 L 0 300 Z" fill="#f4f4f2"/>
 </svg>
