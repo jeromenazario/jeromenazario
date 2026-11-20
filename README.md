@@ -1,7 +1,7 @@
 <a href="https://www.jeromenazario.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-    <img src="./assets/header-light.svg" width="100%" alt="Jerome Nazario — full-stack developer for booking, CRM, automation, AI & machine learning" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/wave-dark.svg" />
+    <img src="./assets/wave-light.svg" width="100%" alt="Jerome Nazario — full-stack developer for booking, CRM, automation, AI & machine learning" />
   </picture>
 </a>
 
